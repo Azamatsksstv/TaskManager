@@ -6,6 +6,7 @@
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/3a5ef954-fbaf-40d6-8def-52a906da794c)
 Создание новой задачи
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/2db6f59d-2cc6-482e-86fc-f29953e64c99)
+Получение информации о конкретной задаче
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/bebee5d1-d064-49c5-8cee-22e0a50c6617)
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/f79a8633-6a05-4636-acff-355e4a8809fe)
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/8ff36f5a-c5a8-4e26-b788-fb236893e065)
