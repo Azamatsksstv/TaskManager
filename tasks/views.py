@@ -1,11 +1,14 @@
 from rest_framework import generics
+from rest_framework.permissions import IsAuthenticated
 from tasks.models import Task
 from tasks.serializers import TaskSerializer
+from rest_framework.authentication import TokenAuthentication
 
 
 class TaskList(generics.ListAPIView):
     queryset = Task.objects.all()
     serializer_class = TaskSerializer
+    permission_classes = [IsAuthenticated,]
 
 
 class CreateTask(generics.CreateAPIView):

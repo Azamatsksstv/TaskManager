@@ -28,10 +28,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'tasks',
-    'users',
-
     'rest_framework',
     'rest_framework_simplejwt',
+    'rest_framework.authtoken',
     'django_filters',
 ]
 
