@@ -14,4 +14,5 @@
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/8ff36f5a-c5a8-4e26-b788-fb236893e065)
 Удаление задачи
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/4c2a5e16-c5e2-42ac-a4a0-00016a3abfec)
+Получение списка всех задач после удаления
 ![image](https://github.com/Azamatsksstv/taskmanager/assets/90980633/1fe83213-da73-474b-ad2c-2d2a2f5b3228)
