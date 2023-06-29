@@ -10,4 +10,5 @@ urlpatterns = [
     path('<int:pk>/update/', UpdateTask.as_view()),
     path('<int:pk>/delete/', DeleteTask.as_view()),
 ]
+
 urlpatterns += router.urls
